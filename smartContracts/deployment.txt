@@ -1,0 +1,79 @@
+
+Compiling your contracts...
+===========================
+> Everything is up to date, there is nothing to compile.
+
+
+
+Migrations dry-run (simulation)
+===============================
+> Network name:    'kovan-fork'
+> Network id:      42
+> Block gas limit: 12499988 (0xbebc14)
+
+
+2_migrate_contracts.js
+======================
+
+   Deploying 'Elements'
+   --------------------
+   > block number:        24381924
+   > block timestamp:     1619043764
+   > account:             0x4be34eA5Eb5457108343FBc53ba3870e1C9612FB
+   > balance:             99.993228992
+   > gas used:            3385504 (0x33a8a0)
+   > gas price:           2 gwei
+   > value sent:          0 ETH
+   > total cost:          0.006771008 ETH
+
+   -------------------------------------
+   > Total cost:         0.006771008 ETH
+
+
+Summary
+=======
+> Total deployments:   1
+> Final cost:          0.006771008 ETH
+
+
+
+
+
+Starting migrations...
+======================
+> Network name:    'kovan'
+> Network id:      42
+> Block gas limit: 12487794 (0xbe8c72)
+
+
+2_migrate_contracts.js
+======================
+
+   Deploying 'Elements'
+   --------------------
+   > transaction hash:    0xbbb4eb339dd91bb269ff884e15dc0473947748fa95529579fbc26b7f1c9cbe97
+   > Blocks: 1            Seconds: 4
+   > contract address:    0x183B1C66f3526D91fDea08BFCB9eA7ed392e6E59
+   > block number:        24381937
+   > block timestamp:     1619043788
+   > account:             0xE1A2da2cf4ae4b8E28153Ab9e564f44F6FbCbF62
+   > balance:             2.198006472
+   > gas used:            3752104 (0x3940a8)
+   > gas price:           20 gwei
+   > value sent:          0 ETH
+   > total cost:          0.07504208 ETH
+
+
+   > Saving migration to chain.
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:          0.07504208 ETH
+
+
+Summary
+=======
+> Total deployments:   1
+> Final cost:          0.07504208 ETH
+
+
+
