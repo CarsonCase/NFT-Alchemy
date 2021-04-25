@@ -5,7 +5,7 @@ By: Carson Case
 Contract Address/ Deployed Dapp
 -------------------------------
 Contract (Kovan)    - 0x183B1C66f3526D91fDea08BFCB9eA7ed392e6E59 
-WebApp              - http://71.94.82.7:8080/my-lab
+WebApp              - http://71.94.82.7:8080/how-to
 
 more deployment details in deployment.txt. Also website may not always remain up until a mainnet launch
 
